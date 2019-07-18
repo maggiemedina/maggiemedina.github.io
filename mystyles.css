@@ -1,0 +1,18 @@
+p{
+  color: royalblue;
+}
+
+h1{
+  color: turquoise;
+  font-size: 50px;
+  font-style: italic;
+
+}
+.border{
+  border-style: outset;
+  border-color: skyblue;
+
+}
+body {
+  background-color: hotpink;
+}
